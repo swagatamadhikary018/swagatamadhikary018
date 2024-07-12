@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning on **Web Developer,Frontend Developer.**
 
-- 👨‍💻 I’m already on this project on **ONLINE PSYCHOLOGICAL COUNSELLIN SYSTEM**
+- 👨‍💻 I’m already on this project on **ONLINE PSYCHOLOGICAL COUNSELLING SYSTEM**
 
 - 🤝 Build my Website [PORTFOLIO WEBSITE](https://swagatam-adhikary-portfolio.netlify.app/)
 
