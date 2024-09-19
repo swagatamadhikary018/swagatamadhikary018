@@ -10,7 +10,7 @@
 
 - 👨‍💻 I’m already on this project on **ONLINE PSYCHOLOGICAL COUNSELING SYSTEM**
 
-- 🤝 Build my Website [PORTFOLIO WEBSITE](https://swagatamadhikary-responsiveportfolio.netlify.app/)
+- 🤝 Build my Website [PORTFOLIO WEBSITE](https://personal-portfolio-swagatamadhikary.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/swagatamadhikary018](https://github.com/swagatamadhikary018)
 
