@@ -10,6 +10,8 @@
 
 - 👨‍💻 I’m already on this project on **ONLINE PSYCHOLOGICAL COUNSELING SYSTEM**
 
+- 👨‍💻 Portfolio Website [Portfolio](https://personalportfolio-by-swagatamadhikary.netlify.app/)
+
 - 🤝 Build my Website [PORTFOLIO WEBSITE](https://swagatam-portfolio-main.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/swagatamadhikary018](https://github.com/swagatamadhikary018)
@@ -20,7 +22,7 @@
 
 - 📫 How to reach me **swagatamadhikary501@gmail.com**
 
-- 📄 Know about my experiences [C,Java,Python,PHP,HTML,CSS,JavaScript,nodejs,reactjs,MySQL,Bootstrap](C,Java,Python,PHP,HTML,CSS,JavaScript,nodejs,reactjs,MySQL,Bootstrap)
+- 📄 Know about my experiences [C,Java,Python,PHP,HTML,CSS,JavaScript,nodejs,reactjs,MySQL,Bootstrap](C,Java,Python,PHP,HTML,CSS,JavaScript,reactjs,MySQL,Bootstrap)
 
 - ⚡ Professional Coder(CodeWithSwagatam) **BORN TO CODE FORCED TO WORK!!**
 
