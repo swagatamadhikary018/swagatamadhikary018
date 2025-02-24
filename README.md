@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatamadhikary018&label=Profile%20views&color=0e75b6&style=flat" alt="swagatamadhikary018" /> </p>
 
-- 🔭 I’m currently learning on **Web Developer,Frontend Developer.**
+- 🔭 I’m currently learning on **Web Developer, Frontend Developer.**
 
-- 👨‍💻 I’m already on this project on **ONLINE PSYCHOLOGICAL COUNSELING SYSTEM**
+- 👨‍💻 I’m already on this project on **HEALTHCARE MANAGEMENT SYSTEM & ONLINE PSYCHOLOGICAL COUNSELING SYSTEM**
 
 - 👨‍💻 This is my Portfolio Website😊 [Portfolio](https://personalportfolio-by-swagatamadhikary.netlify.app/)
 
-- 👨‍💻 Website Link Dark/Light Mode :- [Portfolio Webiste Dark/Light Mode](https://personal-portfolio-swagatamadhikary.netlify.app/)
+- 👨‍💻 Old Website Link :- [Portfolio Webiste Dark/Light Mode](https://personal-portfolio-swagatamadhikary.netlify.app/)
 
 - 🤝 Build my Website [PORTFOLIO WEBSITE](https://swagatam-portfolio-main.netlify.app/)
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **swagatamadhikary501@gmail.com**
 
-- 📄 Know about my experiences [C,Java,Python,PHP,HTML,CSS,JavaScript,nodejs,reactjs,MySQL,Bootstrap](C,Java,Python,PHP,HTML,CSS,JavaScript,reactjs,MySQL,Bootstrap)
+- 📄 Know about my experiences [C,Java,Python,HTML,CSS,JavaScript,nodejs,reactjs,MySQL,Bootstrap](C,Java,Python,HTML,CSS,JavaScript,reactjs,MySQL,Bootstrap)
 
 - ⚡ Professional Coder(CodeWithSwagatam) **BORN TO CODE FORCED TO WORK!!**
 
