@@ -20,11 +20,11 @@
 
 - 📝 I regularly write articles on [https://whatsapp.com/channel/0029VaWYfX0ElagqNme4bj1p](https://whatsapp.com/channel/0029VaWYfX0ElagqNme4bj1p)
 
-- 💬 Ask me about **HTML,CSS,JavaScript 🤔**
+- 💬 Ask me about **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **swagatamadhikary501@gmail.com**
 
-- 📄 Know about my experiences [C,Java,Python,HTML,CSS,JavaScript,nodejs,reactjs,MySQL,Bootstrap](C,Java,Python,HTML,CSS,JavaScript,reactjs,MySQL,Bootstrap)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VJOV-FrQse_uoyIhg-l2rnqk66e0QVHq/view)
 
 - ⚡ Fun fact 😊
 
@@ -44,7 +44,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__iam__swagatammm__" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/swagatam adhikary" target="blank">
-    img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swagatam adhikary" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="swagatam adhikary" height="30" width="40" />
   </a>
 
   
@@ -82,6 +82,14 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
   <img width="12" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%20Programming-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img width="12" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img width="12" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img width="12" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img width="12" />
 </div>
  </p>
 
@@ -90,4 +98,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swagatamadhikary018&show_icons=true&locale=en" alt="swagatamadhikary018" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swagatamadhikary018&" alt="swagatamadhikary018" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swagatamadhikary018" alt="swagatamadhikary018" /></p>
